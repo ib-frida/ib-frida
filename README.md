@@ -11,4 +11,5 @@
 ## Contáctame 📫
 
 [✨ Mi LinkedIn](https://www.linkedin.com/in/fridaibarra/)
+
 [✉️ Mi correo ](mailto:fa.ibarra001@ebc.edu.mx)
