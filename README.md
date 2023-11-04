@@ -16,5 +16,3 @@
 
 - LinkedIn: [Frida Ibarra](https://www.linkedin.com/in/fridaibarra/)
 - Correo Electrónico: [fa.ibarra001@ebc.edu.mx](mailto:fa.ibarra001@ebc.edu.mx)
-
-¡Espero que disfrutes explorando mis proyectos! No dudes en contactarme si tienes alguna pregunta o idea para colaborar. 😊
