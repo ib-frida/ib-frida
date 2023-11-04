@@ -1,6 +1,6 @@
 # Hola, Soy Frida Ibarra 👋
 
-![Hello](https://media.giphy.com/media/12oufCpAHXsZy0/giphy.gif)
+![Hello](https://media.giphy.com/media/SFCgftom8E2TAx3Fav/giphy.gif)
 
 ¡Bienvenido a mi rincón en GitHub! Soy una apasionada de la tecnología, el diseño web y el marketing. ¡Me encanta construir cosas hermosas y funcionales en el mundo digital!
 
