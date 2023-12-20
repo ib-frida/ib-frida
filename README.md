@@ -96,7 +96,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ib-frida/ib-frida/output/snake.svg" alt="Snake animation" />
-
-###
