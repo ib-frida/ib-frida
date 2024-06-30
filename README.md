@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **at DataCamp**
 
-- 👨‍💻 All of my projects are available at [https://ibarra-digital.webflow.io/](https://ibarra-digital.webflow.io/)
-
 - 💬 Ask me about **Marketing, Gender studies, Technology**
 
 - 📫 How to reach me **ifrida117@gmail.com**
