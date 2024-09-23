@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ib-frida" alt="ib-frida" /></a> </p>
 
-- 🌱 I’m currently learning **at DataCamp**
+- 🌱 I’m currently learning **at DataCamp and BEDU**
 
 - 💬 Ask me about **Marketing, Gender studies, Technology**
 
 - 📫 How to reach me **ifrida117@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRzMvitDNY3jrBoY8rnEcNLPWe21jhR6m2bCwCqSjFf1X8kC0He0ZT9V5lk1LO7HBLKjQnyQd055D4w/pub](https://docs.google.com/document/d/e/2PACX-1vRzMvitDNY3jrBoY8rnEcNLPWe21jhR6m2bCwCqSjFf1X8kC0He0ZT9V5lk1LO7HBLKjQnyQd055D4w/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
